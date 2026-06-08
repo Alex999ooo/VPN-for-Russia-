@@ -6,6 +6,16 @@ configurations are taken from open sources
 🏳️- белые списки, работают при глушении связи
 Протестировано в приложении Happ на android 
 
+vless://47c87a37-3d09-4c3d-96fb-91ce3bcae058@62.60.148.226:8080?security=none&encryption=none&host=www.speedtest.com&headerType=http&type=tcp#%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9
+vless://f552a78e-400c-4332-8265-8e5da1c21eeb@de-dp-01.com:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=5be97fb85093a3a9#t.me%2FNotorgames_0+-+60+%F0%9F%87%A9%F0%9F%87%AA
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-4.1001notes.ru:443?mode=packet-up&path=%2Fvk&security=tls&encryption=none&fp=chrome&allowinsecure=0&type=xhttp&sni=ru-vk-4.1001notes.ru#t.me%2FNotorgames_0+-+81+%F0%9F%87%B3%F0%9F%87%B1
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?path=%2F&security=tls&encryption=none&host=bitter-shadow-4fc5.alvlirm852.workers.dev&fp=random&allowinsecure=0&type=ws&sni=bitter-shadow-4fc5.alvlirm852.workers.dev#t.me%2FNotorgames_0+-+75+%F0%9F%87%BA%F0%9F%87%B8
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.150.246:2087?path=%2F&security=tls&encryption=none&host=fgnix832fx.fx6hsv0.ccwu.cc&allowinsecure=0&type=ws&sni=fgnix832fx.fx6hsv0.ccwu.cc#t.me%2FNotorgames_0+-+35+%F0%9F%87%B9%F0%9F%87%AD
+
+
+
+
+
 
 vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@ger03.port-server.online:443?security=reality&encryption=none&echfq=none&pbk=zM8Zl7N4M1lpqBOnOS_IZz8cpZE_C9HDIFOeuzFSxzk&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ger03.port-server.online&sid=c91f7baf1f13e354#%F0%9F%87%A9%F0%9F%87%AA+%F0%9F%8F%B4+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?security=reality&encryption=none&echfq=none&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=est01.port-server.online&sid=9902cda1645757ea#%F0%9F%87%AA%F0%9F%87%AA+%F0%9F%8F%B4+%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
