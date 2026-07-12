@@ -12,8 +12,9 @@ configurations are taken from open sources
 #profile-update-interval: 23
 #support-url: https://t.me/Fur_Fur_Vpn_bot
 #profile-web-page-url: https://t.me/Fur_Fur_Vpn
-#announce: Не работает телеграмм - попробуйте другой сервер 
-#subscription-userinfo: upload=0; download=0; total=0; expire=20000
+#announce: Не работает телеграмм - попробуйте другой сервер
+Не рекомендуется использовать сервера с обходом глушилок на WIFI
+#subscription-userinfo: upload=0; download=0; total=0; expire=200000000000
 
 
 
